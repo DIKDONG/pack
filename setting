@@ -4,4 +4,3 @@ namapack = "deluxe_grow_spray"
 MinItemPack = 10
 maxbuy = 10
 iditempack = {5706 ,1778, 228}
-WorldTools = "MAGNAEAST"
