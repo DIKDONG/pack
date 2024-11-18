@@ -3,4 +3,4 @@ MinGems = 6000
 namapack = "fishin_pack"
 MinItemPack = 1
 maxbuy = 10
-iditempack = {5706 ,1778, 2912, 2914, 5522, 5524, 3044, 3004, 3002, 822}
+iditempack = {5706,1778,3004,822,2914,2912,5522,5524,3002,3044}
