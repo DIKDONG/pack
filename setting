@@ -1,6 +1,6 @@
-hargapack = 7500
+hargapack = 7000
 MinGems = 6000
-namapack = "thanksgiving_bell"
-MinItemPack = 5
+namapack = "ssp_10_pack"
+MinItemPack = 70
 maxbuy = 10
-iditempack = {7342,1778}
+iditempack = {7342,1778,5706}
