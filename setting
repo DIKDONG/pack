@@ -1,6 +1,6 @@
 hargapack = 7500
 MinGems = 6000
 namapack = "thanksgiving_bell"
-MinItemPack = 10
+MinItemPack = 5
 maxbuy = 10
 iditempack = {7342,1778}
