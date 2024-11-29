@@ -1,6 +1,6 @@
-hargapack = 30000
-MinGems = 30000
-namapack = "cave_blast"
+hargapack = 7000
+MinGems = 7000
+namapack = "silkworm"
 MinItemPack = 1
 maxbuy = 10
-iditempack = {10394,1778,3562}
+iditempack = {10394,1778,3316}
