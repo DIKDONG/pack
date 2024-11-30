@@ -1,6 +1,6 @@
 hargapack = 2000
 MinGems = 2000
 namapack = "signal_jammer"
-MinItemPack = 4
+MinItemPack = 10
 maxbuy = 10
 iditempack = {10394,1778,226}
