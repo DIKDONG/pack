@@ -1,6 +1,6 @@
 hargapack = 7000
 MinGems = 7000
 namapack = "silkworm"
-MinItemPack = 8
+MinItemPack = 1
 maxbuy = 100
 iditempack = {10394,1778,226}
