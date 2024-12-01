@@ -3,4 +3,4 @@ MinGems = 7000
 namapack = "silkworm"
 MinItemPack = 1
 maxbuy = 100
-iditempack = {10394,1778,226}
+iditempack = {10394,1778,3316}
