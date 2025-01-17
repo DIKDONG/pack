@@ -1,6 +1,6 @@
-hargapack = 900
-MinGems = 900
-namapack = "deluxe_grow_spray"
-MinItemPack = 5
+hargapack = 10000
+MinGems = 10000
+namapack = "party_box"
+MinItemPack = 1
 maxbuy = 100
-iditempack = {10394,1778,226,3316}
+iditempack = {10394,1778,226,3316,2306}
